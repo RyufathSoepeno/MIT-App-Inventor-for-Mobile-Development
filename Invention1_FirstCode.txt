@@ -1,0 +1,3 @@
+To save the file, go to build and download Android apk
+
+You cannot really see the code work of the app unless you open it with MIT app inventor

@@ -1,0 +1,15 @@
+To create an align position on entire application, go to screen, not label
+
+To test an MIT app on your own phone, download MIT AI2 Companion, and then go to the connect button in the interface, and press AI interface
+
+To make things tidier, you can go to layout
+
+Today, I tested "Horizontal Arrangement", which as the name suggest, arranges and aligns the elements in a tidy horziontal manner
+
+I used "fill parent" to make sure the entire arrangement hits the entire horziontal line of the layout
+
+I also tested Horizontal Scroll Arrangement", which differentiate from the latter, we can put more elements in its normal with and height, but there is a scrolling feature, therefore showing all the elements that is placed there. 
+
+There is also "Table Arrangement", which creates a lay0ut in form of table rows and columns
+
+Vertical Arrangement is an arrangement as the name suggest, vertical layout, but the interesting part is, you can put vertical arrangements on horizontal arrangements; vice versa too

@@ -1,0 +1,15 @@
+Blocks is where the coding begins!
+
+You can click block on the top right
+
+In this code, we want to make the image visible when we press the button
+
+In here, we will need to use blocks from Button1 & Image1
+
+So the tip: Do not always focus on one element/variable or component when trying to merge two of them together (example of this is image and button)
+
+============
+
+Built-in are the coding functions rather than variable or component function, so also focus on that (in this case "true" is logic)
+
+Just make non-visible default just by the properties, do not rush yourself!

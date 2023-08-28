@@ -1,0 +1,17 @@
+In this tutorial we will show you how to create a working and interactive checkbox app, that allows user to click and display what they clicked (by TheCodingBus)
+
+We use another label (label3) to display the results
+
+"Join" in text variable combines two texts at once functionality, it appends all of the inputs to make a single string 
+
+If we don't use join, it will only display one result, despite we have checked more than one box
+
+
+
+ANY ELEMENT WITH A GEAR CAN BE USED TO EDIT THE FUNCTIONALITY OF THE VARIABLE
+
+
+
+Join can also be used for formatting
+
+Algorithm is like this: Show label -> give comma format -> show another value of label and checkbox (if applied)

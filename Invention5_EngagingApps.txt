@@ -1,0 +1,5 @@
+Notifier displays notifications and banner:
+  -The message is a formatter that decides what format the output will be displayed
+  -Button text serves as a button inside the notifier
+
+Part two describes show alert, which will notify using a "caption alert form"

@@ -1,0 +1,9 @@
+-Min value is where the slider will start on
+
+-The width is the lengther of the slider, do nto forget that part
+
+==========================
+
+-A spinner provides a multiple choice function, works in a comma seperate string
+
+-Password's function is to generate anonymous input, not neccesarily for a password

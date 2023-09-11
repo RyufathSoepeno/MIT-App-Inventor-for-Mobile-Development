@@ -1,0 +1,7 @@
+We can use text to make buttons more aligned: same as programming, you can use empty strings to make more space and tidiness
+
+We use width in buttons to make them more aligned to one another (Notice how the buttons look teh same
+
+Reminder: We made height of horizontal arrangement 30% for this layout
+
+Vertical Arrangement 1 was hidden in the smartphone to make vertical arrangement2
